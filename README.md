@@ -1,6 +1,8 @@
 This repository contains Docker images for different applications.
 
 Docker-Java:
+
+
 docker build -t <image_name> .
 
 
